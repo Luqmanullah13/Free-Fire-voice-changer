@@ -81,6 +81,8 @@ private val DEBUG_APK_WORKFLOW_SNIPPET =
             distribution: temurin
             java-version: "21"
         - uses: android-actions/setup-android@v3
+          with:
+            packages: platform-tools platforms;android-36 build-tools;36.0.0
         - uses: gradle/actions/setup-gradle@v4
           with:
             gradle-version: "9.3.1"
@@ -110,6 +112,8 @@ private val CI_VERIFY_WORKFLOW_SNIPPET =
             distribution: temurin
             java-version: "21"
         - uses: android-actions/setup-android@v3
+          with:
+            packages: platform-tools platforms;android-36 build-tools;36.0.0
         - uses: gradle/actions/setup-gradle@v4
           with:
             gradle-version: "9.3.1"
