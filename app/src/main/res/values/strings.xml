@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VoxForge</string>
+    <string name="app_subtitle">Real-Time Voice DSP &amp; HUD Studio</string>
+    <string name="login_title">VOICE CHANGER</string>
+    <string name="login_subtitle">Enter Access Key or use Demo Mode</string>
+    <string name="login_key_label">Access Key / Handle</string>
+    <string name="login_pass_label">Passcode</string>
+    <string name="login_save_label">Save Login</string>
+    <string name="login_button">LOGIN</string>
+    <string name="login_verifying">Verifying user...</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_mixer">HUD &amp; Mixer</string>
+    <string name="nav_systems">CI &amp; Systems</string>
+    <string name="voice_changer_on">VOICE CHANGER [ON]</string>
+    <string name="voice_changer_off">VOICE CHANGER [OFF]</string>
+    <string name="hud_overlay_on">FLOATING HUD [ON]</string>
+    <string name="hud_overlay_off">FLOATING HUD [OFF]</string>
+    <string name="permission_mic_required">Microphone permission is required for real-time voice processing.</string>
+    <string name="permission_overlay_required">Display over other apps permission enables the floating game HUD.</string>
+    <string name="disclaimer_notice">Use headphones during live voice monitoring to avoid acoustic feedback. Compatible with Play Store audio &amp; overlay guidelines.</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer tactical hexagon badge -->
+    <path
+        android:fillColor="#FF1A1E29"
+        android:strokeColor="#FFFF2E43"
+        android:strokeWidth="2.5"
+        android:pathData="M54,23 L78,36 L78,65 L54,83 L30,65 L30,36 Z" />
+    <!-- Microphone capsule body -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,32 C58.4,32 62,35.6 62,40 L62,52 C62,56.4 58.4,60 54,60 C49.6,60 46,56.4 46,52 L46,40 C46,35.6 49.6,32 54,32 Z" />
+    <!-- Mic stand arc & stem -->
+    <path
+        android:fillColor="#FF00D2FF"
+        android:pathData="M42,50 L44.5,50 C44.5,55.2 48.8,59.5 54,59.5 C59.2,59.5 63.5,55.2 63.5,50 L66,50 C66,56.2 61.3,61.3 55.3,61.9 L55.3,68 L61,68 L61,70.5 L47,70.5 L47,68 L52.7,68 L52.7,61.9 C46.7,61.3 42,56.2 42,50 Z" />
+    <!-- Left waveform bars -->
+    <path
+        android:fillColor="#FFFF2E43"
+        android:pathData="M36,42 L39,42 L39,56 L36,56 Z M31,45 L34,45 L34,53 L31,53 Z" />
+    <!-- Right waveform bars -->
+    <path
+        android:fillColor="#FFFF2E43"
+        android:pathData="M69,42 L72,42 L72,56 L69,56 Z M74,45 L77,45 L77,53 L74,53 Z" />
+</vector>

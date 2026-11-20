@@ -1,0 +1,6 @@
+{
+  "name": "VoxForge",
+  "description": "Real-time voice changer studio with floating game HUD overlay, DSP voice presets, audio recorder, and GitHub debug APK CI/CD workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
